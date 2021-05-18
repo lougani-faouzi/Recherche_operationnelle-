@@ -1,3 +1,3 @@
-# Optimisation et recherche_operationnelle-
+# Optimisation et recherche operationnelle 
 Knapsack Problem project 
 
